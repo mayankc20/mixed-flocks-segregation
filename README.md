@@ -1,8 +1,7 @@
 # Mixed flocks in open space
 
 Code for the paper *Segregation with cohesion: a quantum-inspired perceptual model of mixed flocks in open space*, by Mayank Chaurasiya, Ayush Agrawal, Chirayush Mohanty and Laxmidhar Behera (Indian Institute of Technology Mandi and Indian Institute of Technology Kanpur).
-
-Archived on Zenodo, with the output of every run and the video: DOI to be added.
+Archived on Zenodo, with the output of every run and the video: https://doi.org/10.5281/zenodo.24240972
 
 Agents of three kinds move at constant speed in an open plane. Each agent perceives six partners, chosen in proportion to how similar they are to it, and adds their headings and bearings as amplitudes in one superposed state. The bearing of a partner of another kind enters with a minus sign. The agent draws its next heading from the squared perceptual state, which carries memory of earlier steps (Born rule). With these two ingredients the kinds segregate into single-kind clusters while the flock stays together.
 
